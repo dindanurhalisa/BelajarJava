@@ -1,23 +1,5 @@
 package com.dinda;
-
 import java.util.Scanner;
-
-/**
- * Created by Amir
- * FrogoBox Inc License
- * =========================================
- * BelajarJava
- * Copyright (C) 10/09/2021.
- * All rights reserved
- * -----------------------------------------
- * Name     : Muhammad Faisal Amir
- * E-mail   : faisalamircs@gmail.com
- * Github   : github.com/amirisback
- * LinkedIn : linkedin.com/in/faisalamircs
- * -----------------------------------------
- * FrogoBox Software Industries
- * com.dinda
- */
 public class Kalkulator {
     public static void main(String[] args) {
         System.out.println("kalkulator dinda");
